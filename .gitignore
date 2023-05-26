@@ -131,3 +131,5 @@ dist
 
 # Build
 build
+build/**.*
+build/*
